@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CodeX</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_back">Back</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_clear_search">Clear search</string>
+
+    <!-- Empty States -->
+    <string name="no_codecs_found">No codecs found</string>
+    <string name="no_codecs_found_description">Try adjusting your search query or filter settings</string>
+
+    <!-- Search -->
+    <string name="search_placeholder">Search by name or supported type</string>
+</resources>
